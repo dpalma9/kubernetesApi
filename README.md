@@ -1,4 +1,4 @@
-** INTRO **
+**INTRO**
 =========
 
 This is a simple project that shows you how to interact with a Kubernetes cluster usings its API without the kubectl client.
